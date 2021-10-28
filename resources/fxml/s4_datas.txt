@@ -1,0 +1,329 @@
+imgPath:/img/plants/Acer negundo.png
+Acer negundo
+Light: Sun
+Water: Medium
+Bloom Time: Mar,Apr
+Hight: 36-72ft
+Bloom Color:Yellow/Green/Brown
+Soil Moisture: Moist
+CaCO3 Tolerance: High
+Drought Tolerance: High
+
+imgPath:/img/plants/Acer rubrum.png
+Acer rubrum
+Light: Sun/Part Shade
+Water: High
+Bloom Time: Mar/Apr
+Hight: 32-100ft
+Bloom Color: Red
+Soil Moisture: Moist
+CaCO3 Tolerance: High
+Drought Tolerance: Low
+
+imgPath:/img/plants/Acer saccharinum.png
+Acer saccharinum
+Light: Sun/Part Shade/Shade
+Water: Medium
+Bloom Time: Mar/Apr
+Hight: 72-100ft
+Bloom Color: White/Red/Yellow
+Soil Moisture: Moist
+CaCO3 Tolerance: Medium
+Drought Tolerance: Low
+
+imgPath:/img/plants/Amelanchier arborea.png
+Amelanchier arborea
+Light: Sun/part Shade/Shade
+Water: Medium
+Bloom Time: Apr/May
+Hight: 12-36ft
+Bloom Color: White
+Soil Moisture: Dry
+CaCO3 Tolerance: None
+Drought Tolerance: Low
+
+imgPath:/img/plants/Anemone virginiana.png
+Anemone virginiana
+Light: Sun/Part Shade
+Water: Medium
+Bloom Time: May/Jun/Jul
+Hight: 1-3ft
+Bloom Color: White/Green/Brown
+Soil Moisture: Dry/Moist
+CaCO3 Tolerance:none
+Drought Tolerance: High
+
+imgPath:/img/plants/Arisaema triphyllum.png
+Arisaema triphyllum
+Light: Sun/Part Shade
+Water: Medium
+Bloom Time: May/Jun/Jul
+Hight: 1-3ft
+Bloom Color: White/Green/Brown
+Soil Moisture: Dry/Moist
+CaCO3 Tolerance:none
+Drought Tolerance: High
+
+imgPath:/img/plants/Asarum canadense.png
+Asarum canadense
+Light: Part Shade/Shade
+Water: Medium
+Bloom Time: Apr/May/Jun
+Hight: 3-5inch
+Bloom Color: Red/Green/Purple/Brown
+Soil Moisture: Moist
+CaCO3 Tolerance: 
+Drought Tolerance:
+
+imgPath:/img/plants/Asclepias incarnata.png
+Asclepias incarnata
+Light: Sun/Part Shade
+Water: High
+Bloom Time: Jun/Jul/Aug/Sep/Oct 
+Hight: 3-6ft
+Bloom Color: Pink/Purple 
+Soil Moisture: Moist/Wet
+CaCO3 Tolerance: Medium
+Drought Tolerance:
+
+imgPath:/img/plants/Asclepias tuberosa.png
+Asclepias tuberosa
+Light: Sun
+Water: Low
+Bloom Time: May/Jun/Jul/Aug/Sep
+Hight: 1-3ft
+Bloom Color: Orange/Yellow
+Soil Moisture: Dry/Moist
+CaCO3 Tolerance: Medium
+Drought Tolerance: High
+
+imgPath:/img/plants/Cardamine concatenata.png
+Cardamine concatenata
+Light: Shade
+Water: Medium
+Bloom Time: Mar/Apr/May 
+Hight: 0-1ft
+Bloom Color: White/Pink/Purple 
+Soil Moisture: Moist
+CaCO3 Tolerance: 
+Drought Tolerance: 
+
+imgPath:/img/plants/White Turtlehead.png
+White Turtlehead
+Light: Sun/Part Shade/Shade
+Water: High
+Bloom Time: Jul/Aug/Sep 
+Hight: 3-6ft
+Bloom Color: White/Pink
+Soil Moisture: Moist/Wet
+CaCO3 Tolerance: 
+Drought Tolerance: Low
+
+imgPath:/img/plants/Betula lenta.png
+Betula lenta
+Light: Part Shade/Shade
+Water: Medium
+Bloom Time: Apr/May
+Hight: 72-100ft
+Bloom Color: Red/Yellow/Green/Brown
+Soil Moisture: Dry/Moist
+CaCO3 Tolerance: Low
+Drought Tolerance: High
+
+imgPath:/img/plants/Betula nigra.png
+Betula nigra
+Light: Part Shade
+Water: High
+Bloom Time: Feb/Mar 
+Hight: 36-72ft
+Bloom Color: Green/Brown
+Soil Moisture: Moist
+CaCO3 Tolerance: None
+Drought Tolerance:
+
+imgPath:/img/plants/Carpinus caroliniana.png
+Carpinus caroliniana
+Light: Part Shade/Shade
+Water: Medium
+Bloom Time: Mar/Apr/May
+Hight: 12-36ft
+Bloom Color: Red/Green/Brown
+Soil Moisture: Moist
+CaCO3 Tolerance: Low
+Drought Tolerance: 
+
+imgPath:/img/plants/Carya cordiformis.png
+Carya cordiformis
+Light: Sun/Part Shade/ Shade
+Water: Medium
+Bloom Time: Apr
+Hight: 72-100ft
+Bloom Color: Yellow/Green/Brown
+Soil Moisture: Moist
+CaCO3 Tolerance: High
+Drought Tolerance: 
+
+imgPath:/img/plants/Carya glabra.png
+Carya glabra
+Light: Sun/Part Shade/Shade
+Water: Medium
+Bloom Time: Apr
+Hight: 72-100ft
+Bloom Color: Yellow/Green/Brown
+Soil Moisture: Dry
+CaCO3 Tolerance: High 
+Drought Tolerance: High
+
+imgPath:/img/plants/Carya ovata.png
+Carya ovata
+Light: Sun/Part Shade/Shade
+Water: Medium
+Bloom Time: Mar/Apr/May/Jun
+Hight: 72-100ft
+Bloom Color: Green/Brown
+Soil Moisture: Dry/Moist
+CaCO3 Tolerance: Medium
+Drought Tolerance: 
+
+imgPath:/img/plants/Celtis occidentalis.png
+Celtis occidentalis
+Light: Sun/Part Shade/Shade
+Water: Low
+Bloom Time: Apr
+Hight: 72-100ft
+Bloom Color: Green/Brown
+Soil Moisture: Dry/Moist
+CaCO3 Tolerance: High
+Drought Tolerance: High
+
+imgPath:/img/plants/Aronia arbutifolia.png
+Aronia arbutifolia
+Light: Sun
+Water: High
+Bloom Time: May 
+Hight: 6-12ft
+Bloom Color: White 
+Soil Moisture: Moist
+CaCO3 Tolerance: Low
+Drought Tolerance: Low
+
+imgPath:/img/plants/Asimina triloba.png
+Asimina triloba
+Light: Sun/Part Shade/Shade
+Water: Medium
+Bloom Time: Apr/May
+Hight: 12-36ft
+Bloom Color: White/Red/Yellow/Purple
+Soil Moisture: Moist
+CaCO3 Tolerance: Medium
+Drought Tolerance: 
+
+imgPath:/img/plants/Cephalanthus occidentalis.png
+Cephalanthus occidentalis
+Light: Part Shade/Shade
+Water: High
+Bloom Time: Jun/Jul/Aug/Sep 
+Hight: 6-12ft
+Bloom Color: White/Pink 
+Soil Moisture: Moist/Wet
+CaCO3 Tolerance: Medium
+Drought Tolerance: 
+
+imgPath:/img/plants/Clethra alnifolia.png
+Clethra alnifolia
+Light: Sun/Part Shade/Shade
+Water: High
+Bloom Time: Jul/Aug 
+Hight: 3-12ft
+Bloom Color: White/Pink 
+Soil Moisture: Moist/Wet
+CaCO3 Tolerance: Low
+Drought Tolerance: Low
+
+imgPath:/img/plants/Cornus florida.png
+Cornus florida
+Light: Part Shade/Shade
+Water: Low
+Bloom Time:Mar/Apr/May/Jun/Jul/Aug/Sep/Oct 
+Hight: 12-36ft
+Bloom Color: White/Pink
+Soil Moisture: Dry/Moist
+CaCO3 Tolerance: Low
+Drought Tolerance: 
+
+imgPath:/img/plants/Corylus americana.png
+Corylus americana
+Light: Part Shade/Shade
+Water: Medium
+Bloom Time: Apr/May/Jun
+Hight: 6-12ft
+Bloom Color: White/Green
+Soil Moisture: Dry/Moist
+CaCO3 Tolerance: Medium
+Drought Tolerance: 
+
+imgPath:/img/plants/Crataegus crus-galli.png
+Crataegus crus-galli
+Light: Sun/Part Shade/Shade
+Water: Low
+Bloom Time: May/Jun 
+Hight: 12-36ft
+Bloom Color: White/Pink
+Soil Moisture: Dry/Moist
+CaCO3 Tolerance: High
+Drought Tolerance: 
+
+imgPath:/img/plants/Hamamelis virginiana.png
+Hamamelis virginiana
+Light: Part Shade/Shade 
+Water: Medium
+Bloom Time: Sep/Oct/Nov/Dec
+Hight: 6-12ft
+Bloom Color: Orange/Yellow/Green/Brown 
+Soil Moisture: Dry/Moist
+CaCO3 Tolerance: Low
+Drought Tolerance: 
+
+imgPath:/img/plants/Ilex verticillata.png
+Ilex verticillata
+Light: Sun/Part Shade/Shade
+Water: High
+Bloom Time: Apr/May/Jun/Jul 
+Hight: 6-12ft
+Bloom Color: White/Yellow/Green/Brown 
+Soil Moisture: Dry/Moist/Wet
+CaCO3 Tolerance: Low
+Drought Tolerance: 
+
+imgPath:/img/plants/Kalmia latifolia.png
+Kalmia latifolia
+Light: Part Shade
+Water: Low
+Bloom Time: Jun/Jul 
+Hight: 1-3ft
+Bloom Color: White/Pink 
+Soil Moisture: Moist
+CaCO3 Tolerance: None
+Drought Tolerance: 
+
+imgPath:/img/plants/Prunus americana.png
+Prunus americana
+Light: Sun/Part Shade/Shade
+Water: Medium
+Bloom Time: Apr/May
+Hight: 36.72ft
+Bloom Color: White
+Soil Moisture: Moist
+CaCO3 Tolerance: High
+Drought Tolerance: 
+
+imgPath:/img/plants/Rhododendron atlanticum.png
+Rhododendron atlanticum
+Light: Part Shade
+Water: High
+Bloom Time: Apr/May 
+Hight: 1-3ft
+Bloom Color: White 
+Soil Moisture: Dry
+CaCO3 Tolerance: None 
+Drought Tolerance: 

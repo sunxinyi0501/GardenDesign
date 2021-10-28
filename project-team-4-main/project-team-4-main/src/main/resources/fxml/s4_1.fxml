@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="393.0" prefWidth="670.0" xmlns="http://javafx.com/javafx/8.0.131" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pkgMain.LimitMouseShowController">
+
+    <VBox alignment="CENTER" layoutX="33.0" layoutY="142.0" style="-fx-background-color: #eaeaea;" />
+    <Label fx:id="name" layoutX="19.0" layoutY="14.0" prefHeight="42.0" text="Salix discolor(Pussy willow) keystone">
+        <font>
+            <Font size="25.0" />
+        </font>
+    </Label>
+    <Label fx:id="light" layoutX="19.0" layoutY="70.0" prefHeight="42.0" text=".light:aaa">
+        <font>
+            <Font size="25.0" />
+        </font>
+    </Label>
+    <Label fx:id="bloomColor" layoutX="19.0" layoutY="121.0" prefHeight="42.0" text=". Bloom color:Gray">
+        <font>
+            <Font size="25.0" />
+        </font>
+    </Label>
+    <Label fx:id="bloomTime" layoutX="22.0" layoutY="177.0" prefHeight="42.0" text=". Bloom time:Apr-May">
+        <font>
+            <Font size="25.0" />
+        </font>
+    </Label>
+    <Label fx:id="hight" layoutX="22.0" layoutY="336.0" prefHeight="42.0" text=". hight:Full sun">
+        <font>
+            <Font size="25.0" />
+        </font>
+    </Label>
+    <Label fx:id="soilMoisture" layoutX="14.0" layoutY="286.0" prefHeight="42.0" text=". soil Moisture:Moist,Wet,Dry">
+        <font>
+            <Font size="25.0" />
+        </font>
+    </Label>
+    <Label fx:id="caCO3Tolerance" layoutX="18.0" layoutY="232.0" prefHeight="42.0" text=". caCO3Tolerance: 15-25'">
+        <font>
+            <Font size="25.0" />
+        </font>
+    </Label>
+    <Label fx:id="droughtTolerance" layoutX="379.0" layoutY="232.0" prefHeight="42.0" text=". droughtTolerance: 20'">
+        <font>
+            <Font size="25.0" />
+        </font>
+    </Label>
+    <Label fx:id="water" layoutX="422.0" layoutY="286.0" prefHeight="42.0" text=". water: 20'">
+        <font>
+            <Font size="25.0" />
+        </font>
+    </Label>
+</AnchorPane>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="800.0" prefWidth="1000.0" stylesheets="@../css/search.css" xmlns="http://javafx.com/javafx/8.0.131" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pkgMain.CharacteristicsLimitController">
+   <children>
+      <Pane fx:id="leftPane" layoutX="87.0" layoutY="73.0" prefHeight="647.0" prefWidth="293.0" style="-fx-border-color: black; -fx-border-width: 3px;">
+         <children>
+            <Label layoutX="83.0" layoutY="29.0" text=" characterstics">
+               <font>
+                  <Font size="19.0" />
+               </font>
+            </Label>
+            <Pane layoutX="32.0" layoutY="62.0" prefHeight="56.0" prefWidth="231.0">
+               <children>
+                  <TextField fx:id="light" layoutX="63.0" layoutY="18.0" prefHeight="38.0" prefWidth="158.0" />
+                  <Label layoutY="24.0" prefHeight="20.0" prefWidth="63.0" text="Light">
+                     <font>
+                        <Font size="19.0" />
+                     </font>
+                  </Label>
+                  <ImageView fitHeight="25.0" fitWidth="24.0" layoutX="184.0" layoutY="27.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../img/triangle.png" />
+                     </image>
+                  </ImageView>
+                  <Line endX="100.0" endY="46.0" layoutX="70.0" layoutY="10.0" startX="100.0" startY="8.0" />
+               </children>
+            </Pane>
+
+             <Pane layoutX="32.0" layoutY="122.0" prefHeight="56.0" prefWidth="231.0">
+                 <children>
+                     <TextField fx:id="water" layoutX="63.0" layoutY="18.0" prefHeight="38.0" prefWidth="158.0" />
+                     <Label layoutY="24.0" prefHeight="20.0" prefWidth="63.0" text="Water">
+                         <font>
+                             <Font size="19.0" />
+                         </font>
+                     </Label>
+                     <ImageView fitHeight="25.0" fitWidth="24.0" layoutX="184.0" layoutY="27.0" pickOnBounds="true" preserveRatio="true">
+                         <image>
+                             <Image url="@../img/triangle.png" />
+                         </image>
+                     </ImageView>
+                     <Line endX="100.0" endY="46.0" layoutX="70.0" layoutY="10.0" startX="100.0" startY="8.0" />
+                 </children>
+             </Pane>
+             <Pane layoutX="32.0" layoutY="182.0" prefHeight="56.0" prefWidth="231.0">
+                 <children>
+                     <TextField fx:id="bloomTime" layoutX="63.0" layoutY="18.0" prefHeight="38.0" prefWidth="158.0" />
+                     <Label layoutY="-8.0" prefHeight="88.0" prefWidth="70.0" text="Bloom Time" wrapText="true">
+                         <font>
+                             <Font size="19.0" />
+                         </font>
+                     </Label>
+                     <ImageView fitHeight="25.0" fitWidth="24.0" layoutX="184.0" layoutY="27.0" pickOnBounds="true" preserveRatio="true">
+                         <image>
+                             <Image url="@../img/triangle.png" />
+                         </image>
+                     </ImageView>
+                     <Line endX="100.0" endY="46.0" layoutX="70.0" layoutY="10.0" startX="100.0" startY="8.0" />
+                 </children>
+             </Pane>
+             <Pane layoutX="32.0" layoutY="260.0" prefHeight="56.0" prefWidth="231.0">
+                 <children>
+                     <TextField fx:id="soilMoisture" layoutX="93.0" layoutY="18.0" prefHeight="38.0" prefWidth="128.0" />
+                     <Label layoutY="-1.0" prefHeight="56.0" prefWidth="115.0" text="Soil Moisture" wrapText="true">
+                         <font>
+                             <Font size="19.0" />
+                         </font>
+                     </Label>
+                     <ImageView fitHeight="25.0" fitWidth="24.0" layoutX="184.0" layoutY="27.0" pickOnBounds="true" preserveRatio="true">
+                         <image>
+                             <Image url="@../img/triangle.png" />
+                         </image>
+                     </ImageView>
+                     <Line endX="100.0" endY="46.0" layoutX="70.0" layoutY="10.0" startX="100.0" startY="8.0" />
+                 </children>
+             </Pane>
+             <Pane layoutX="32.0" layoutY="320.0" prefHeight="56.0" prefWidth="231.0">
+                 <children>
+                     <TextField fx:id="bloomColor" layoutX="63.0" layoutY="18.0" prefHeight="38.0" prefWidth="158.0" />
+                     <Label layoutY="-7.0" prefHeight="88.0" prefWidth="63.0" text="Bloom Color" wrapText="true">
+                         <font>
+                             <Font size="19.0" />
+                         </font>
+                     </Label>
+                     <ImageView fitHeight="25.0" fitWidth="24.0" layoutX="184.0" layoutY="27.0" pickOnBounds="true" preserveRatio="true">
+                         <image>
+                             <Image url="@../img/triangle.png" />
+                         </image>
+                     </ImageView>
+                     <Line endX="100.0" endY="46.0" layoutX="70.0" layoutY="10.0" startX="100.0" startY="8.0" />
+                 </children>
+             </Pane>
+             <Pane layoutX="32.0" layoutY="380.0" prefHeight="56.0" prefWidth="231.0">
+                 <children>
+                     <TextField fx:id="caCO3Tolerance" layoutX="93.0" layoutY="18.0" prefHeight="38.0" prefWidth="128.0" />
+                     <Label layoutX="-5.0" layoutY="9.0" prefHeight="56.0" prefWidth="115.0" text="CaCO3 Tolerance" wrapText="true">
+                     <font>
+                        <Font size="19.0" />
+                     </font>
+                     </Label>
+                     <ImageView fitHeight="25.0" fitWidth="24.0" layoutX="184.0" layoutY="27.0" pickOnBounds="true" preserveRatio="true">
+                         <image>
+                             <Image url="@../img/triangle.png" />
+                         </image>
+                     </ImageView>
+                     <Line endX="100.0" endY="46.0" layoutX="70.0" layoutY="10.0" startX="100.0" startY="8.0" />
+                 </children>
+             </Pane>
+             <Pane layoutX="32.0" layoutY="440.0" prefHeight="56.0" prefWidth="231.0">
+                 <children>
+                     <TextField fx:id="droughtTolerance" layoutX="93.0" layoutY="18.0" prefHeight="38.0" prefWidth="128.0" />
+                     <Label layoutX="-5.0" layoutY="3.0" prefHeight="56.0" prefWidth="99.0" text="Drought Tolerance" wrapText="true">
+                         <font>
+                             <Font size="19.0" />
+                         </font>
+                     </Label>
+                     <ImageView fitHeight="25.0" fitWidth="24.0" layoutX="184.0" layoutY="27.0" pickOnBounds="true" preserveRatio="true">
+                         <image>
+                             <Image url="@../img/triangle.png" />
+                         </image>
+                     </ImageView>
+                     <Line endX="100.0" endY="46.0" layoutX="70.0" layoutY="10.0" startX="100.0" startY="8.0" />
+                 </children>
+             </Pane>
+         </children>
+      </Pane>
+      <Pane fx:id="imgPane" layoutX="448.0" layoutY="73.0" prefHeight="656.0" prefWidth="484.0" style="-fx-border-color: black; -fx-border-width: 3px;">
+         <children>
+            <Pane layoutX="27.0" layoutY="25.0" prefHeight="132.0" prefWidth="129.0" style="-fx-background-color: ;">
+               <children>
+                  <Circle fill="white" layoutX="65.0" layoutY="66.0" radius="64.0" stroke="BLACK" strokeType="INSIDE" />
+                  <ImageView fitHeight="88.0" fitWidth="99.0" layoutX="16.0" layoutY="26.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../img/zw1.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </Pane>
+            <Pane layoutX="178.0" layoutY="25.0" prefHeight="132.0" prefWidth="129.0" style="-fx-background-color: ;">
+               <children>
+                  <Circle fill="white" layoutX="65.0" layoutY="66.0" radius="64.0" stroke="BLACK" strokeType="INSIDE" />
+                  <ImageView fitHeight="88.0" fitWidth="99.0" layoutX="16.0" layoutY="26.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../img/zw1.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </Pane>
+            <Pane layoutX="328.0" layoutY="25.0" prefHeight="132.0" prefWidth="129.0" style="-fx-background-color: ;">
+               <children>
+                  <Circle fill="white" layoutX="65.0" layoutY="66.0" radius="64.0" stroke="BLACK" strokeType="INSIDE" />
+                  <ImageView fitHeight="88.0" fitWidth="99.0" layoutX="16.0" layoutY="26.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../img/zw1.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </Pane>
+            <Button layoutX="357.0" layoutY="566.0" mnemonicParsing="false" onMousePressed="#next" prefHeight="30.0" prefWidth="70.0" text="next" />
+            <Button layoutX="186.0" layoutY="566.0" mnemonicParsing="false" onMousePressed="#reset" text="reset" />
+            <Button layoutX="272.0" layoutY="566.0" mnemonicParsing="false" onMousePressed="#prev" text="prev" />
+            <Pane layoutX="28.0" layoutY="196.0" prefHeight="132.0" prefWidth="129.0" style="-fx-background-color: ;">
+               <children>
+                  <Circle fill="white" layoutX="65.0" layoutY="66.0" radius="64.0" stroke="BLACK" strokeType="INSIDE" />
+                  <ImageView fitHeight="88.0" fitWidth="99.0" layoutX="16.0" layoutY="26.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../img/zw1.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </Pane>
+            <Pane layoutX="179.0" layoutY="196.0" prefHeight="132.0" prefWidth="129.0" style="-fx-background-color: ;">
+               <children>
+                  <Circle fill="white" layoutX="65.0" layoutY="66.0" radius="64.0" stroke="BLACK" strokeType="INSIDE" />
+                  <ImageView fitHeight="88.0" fitWidth="99.0" layoutX="16.0" layoutY="26.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../img/zw1.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </Pane>
+            <Pane layoutX="329.0" layoutY="196.0" prefHeight="132.0" prefWidth="129.0" style="-fx-background-color: ;">
+               <children>
+                  <Circle fill="white" layoutX="65.0" layoutY="66.0" radius="64.0" stroke="BLACK" strokeType="INSIDE" />
+                  <ImageView fitHeight="88.0" fitWidth="99.0" layoutX="16.0" layoutY="26.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../img/zw1.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </Pane>
+            <Pane layoutX="29.0" layoutY="369.0" prefHeight="132.0" prefWidth="129.0" style="-fx-background-color: ;">
+               <children>
+                  <Circle fill="white" layoutX="65.0" layoutY="66.0" radius="64.0" stroke="BLACK" strokeType="INSIDE" />
+                  <ImageView fitHeight="88.0" fitWidth="99.0" layoutX="16.0" layoutY="26.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../img/zw1.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </Pane>
+            <Pane layoutX="180.0" layoutY="369.0" prefHeight="132.0" prefWidth="129.0" style="-fx-background-color: ;">
+               <children>
+                  <Circle fill="white" layoutX="65.0" layoutY="66.0" radius="64.0" stroke="BLACK" strokeType="INSIDE" />
+                  <ImageView fitHeight="88.0" fitWidth="99.0" layoutX="16.0" layoutY="26.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../img/zw1.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </Pane>
+            <Pane layoutX="330.0" layoutY="369.0" prefHeight="132.0" prefWidth="129.0" style="-fx-background-color: ;">
+               <children>
+                  <Circle fill="white" layoutX="65.0" layoutY="66.0" radius="64.0" stroke="BLACK" strokeType="INSIDE" />
+                  <ImageView fitHeight="88.0" fitWidth="99.0" layoutX="16.0" layoutY="26.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../img/zw1.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </Pane>
+
+         </children>
+      </Pane>
+      <Button layoutX="814.0" layoutY="748.0" mnemonicParsing="false" onMouseClicked="#goToSeasonView" prefHeight="38.0" prefWidth="140.0" text="next page" />
+   </children>
+</AnchorPane>

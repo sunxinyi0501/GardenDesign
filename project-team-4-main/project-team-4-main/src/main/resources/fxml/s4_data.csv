@@ -1,0 +1,41 @@
+imgPath,name,Light,Water,Bloom Time,Hight,Bloom Color,Soil Moisture,CaCO3 Tolerance,Drought Tolerance,gardenWidth,gardenHeight
+/img/plants/Acer negundo.png,Acer negundo,Sun,Medium,Mar,20+,36-72ft,Yellow/Green/Brown,Moist,High,100,100
+/img/plants/Acer Rubrum.png,Acer rubrum,Sun/Part Shade,High,Mar/Apr,32-100ft,Red,Moist,High,Low,200,200
+/img/plants/Acer saccharinum.png,Acer saccharinum,Sun/Part Shade/Shade,Medium,Mar/Apr,72-100ft,White/Red/Yellow,Moist,Medium,Low,200,200
+/img/plants/Amelanchier arborea.png,Amelanchier arborea,Sun/part Shade/Shade,Medium,Apr/May,12-36ft,White,Dry,None,Low,50,50
+/img/plants/Anemone virginiana.png,Anemone virginiana,Sun/Part Shade,Medium,May/Jun/Jul,1-3ft,White/Green/Brown,Dry/Moist,none,High,20,20
+/img/plants/Arisaema triphyllum.png,Arisaema triphyllum,Sun/Part Shade,Medium,May/Jun/Jul,1-3ft,White/Green/Brown,Dry/Moist,none,High,15,15
+/img/plants/Asarum canadense.png,Drought Tolerance:,Part Shade/Shade,Medium,Apr/May/Jun,3-5inch,Red/Green/Purple/Brown,Moist,None,None,30,30
+/img/plants/Asclepias incarnata.png,Drought Tolerance:,Sun/Part Shade,High,Jun/Jul/Aug/Sep/Oct,3-6ft,Pink/Purple,Moist/Wet,Medium,None,30,30
+/img/plants/Asclepias tuberosa.png,Asclepias tuberosa,Sun,Low,May/Jun/Jul/Aug/Sep,1-3ft,Orange/Yellow,Dry/Moist,Medium,High,15,15
+/img/plants/Cardamine concatenata.png,Cardamine concatenata,Shade,Medium,Mar/Apr/May,0-1ft,White/Pink/Purple,Moist,None,None,10,10
+/img/plants/White Turtlehead.png,White Turtlehead,Sun/Part Shade/Shade,High,Jul/Aug/Sep,3-6ft,White/Pink,Moist/Wet,None,Low,30,30
+/img/plants/Betula lenta.png,Betula lenta,Part Shade/Shade,Medium,Apr/May,72-100ft,Red/Yellow/Green/Brown,Dry/Moist,Low,High,200,200
+/img/plants/Betula nigra.png,Drought Tolerance:,Part Shade,High,Feb/Mar,36-72ft,Green/Brown,Moist,None,null,150,150
+/img/plants/Carpinus caroliniana.png,Carpinus caroliniana,Part Shade/Shade,Medium,Mar/Apr/May,12-36ft,Red/Green/Brown,Moist,Low,None,100,100
+/img/plants/Carya cordiformis.png,Carya cordiformis,Sun/Part Shade/ Shade,Medium,Apr,72-100ft,Yellow/Green/Brown,Moist,High,None,200,200
+/img/plants/Carya glabra.png,Carya glabra,Sun/Part Shade/Shade,Medium,Apr,72-100ft,Yellow/Green/Brown,Dry,High,High,200,200
+/img/plants/Carya ovata.png,Carya ovata,Sun/Part Shade/Shade,Medium,Mar/Apr/May/Jun,72-100ft,Green/Brown,Dry/Moist,Medium,None,200,200
+/img/plants/Celtis occidentalis.png,Celtis occidentalis,Sun/Part Shade/Shade,Low,Apr,72-100ft,Green/Brown,Dry/Moist,High,High,200,200
+/img/plants/Aronia arbutifolia.png,Aronia arbutifolia,Sun,High,May,6-12ft,White,Moist,Low,Low,60,60
+/img/plants/Asimina triloba.png,Asimina triloba,Sun/Part Shade/Shade,Medium,Apr/May,12-36ft,White/Red/Yellow/Purple,Moist,Medium,None,100,100
+/img/plants/Cephalanthus occidentalis.png,Cephalanthus occidentalis,Part Shade/Shade,High,Jun/Jul/Aug/Sep,6-12ft,White/Pink,Moist/Wet,Medium,None,50,50
+/img/plants/Clethra alnifolia.png,Clethra alnifolia,Sun/Part Shade/Shade,High,Jul/Aug,3-12ft,White/Pink,Moist/Wet,Low,Low,50,50
+/img/plants/Cornus florida.png,Cornus florida,Part Shade/Shade,Low,Mar/Apr/May/Jun/Jul/Aug/Sep/Oct,12-36ft,White/Pink,Dry/Moist,Low,None,60,60
+/img/plants/Corylus americana.png,Corylus americana,Part Shade/Shade,Medium,Apr/May/Jun,6-12ft,White/Green,Dry/Moist,Medium,None,50,50
+/img/plants/Crataegus crus-galli.png,Crataegus crus-galli,Sun/Part Shade/Shade,Low,May/Jun,12-36ft,White/Pink,Dry/Moist,High,None,100,100
+/img/plants/Hamamelis virginiana.png,Hamamelis virginiana,Part Shade/Shade,Medium,Sep/Oct/Nov/Dec,6-12ft,Orange/Yellow/Green/Brown,Dry/Moist,Low,None,50,50
+/img/plants/Ilex verticillata.png,Ilex verticillata,Sun/Part Shade/Shade,High,Apr/May/Jun/Jul,6-12ft,White/Yellow/Green/Brown,Dry/Moist/Wet,Low,None,50,50
+/img/plants/Kalmia latifolia.png,Kalmia latifolia,Part Shade,Low,Jun/Jul,1-3ft,White/Pink,Moist,None,None,15,15
+/img/plants/Prunus americana.png,Prunus americana,Sun/Part Shade/Shade,Medium,Apr/May,36.72ft,White,Moist,High,None,50,50
+/img/plants/Rhododendron atlanticum.png,Rhododendron atlanticum,Part Shade,High,Apr/May,1-3ft,White,Dry,None,None,30,30
+/img/plants/Virginia anemone.png,Virginia anemone,Sun/Part Shade,Medium,May/Jun/Jul,1-3ft,White/Green/Brown,Dry/Moist,None,High,30,30
+/img/plants/Vernonia noveboracensis.png,Vernonia noveboracensis,Sun,Medium,Aug/Sep,3-6ft,Red/Purple,Moist,Medium,Medium,30,30
+/img/plants/Tradescantia virginiana.png,Tradescantia virginiana,Sun/Part Shade/Shade,Low/Medium,Mar/Apr/May/Jun/Jul/Aug/Sep/Oct,1-3ft,White/Blue/Purple,Dry/Moist,Low,None,30,30
+/img/plants/Solidago sempervirens.png,Solidago sempervirens,Sun,Low,Aug/sep/Oct,3-6ft,Yellow,Moist,Low,None,30,30
+/img/plants/Solidago rugosa.png,Solidago rugosa,Sun,Medium,Sep,3-6ft,Yellow,Wet,Medium,None,30,30
+/img/plants/Solidago bicolor.png,Solidago bicolor,Sun/Part Shade/Shade,Medium,Jul/Aug/Sep/Oct,1-3ft,White/Yellow,Dry,None,None,30,30
+/img/plants/Sanguinaria canadensis.png,Sanguinaria canadensis,Part Shade/Shade,Medium,Mar/Apr,0-1ft,White,Moist/Wet,None,None,30,30
+/img/plants/Rudbeckia laciniata.png,Rudbeckia laciniata,Sun/Part Shade/Shade,Low,Jul/Aug/Sep/Oct,3-6ft,Yellow,Moist,Medium,None,30,30
+/img/plants/Polygonatum biflorum.png,Polygonatum biflorum,Part Shade/Shade,Medium,Mar/Apr/May/Jun,1-3ft,White/Yellow/Green/Brown,Dry/Moist,None,None,30,30
+/img/plants/Polemonium reptans.png,Polemonium reptans,Shade,Medium,Apr/May,1-3ft,Pink/Blue,Moist,Medium,Low,30,30

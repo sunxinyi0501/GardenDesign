@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="fP" prefHeight="800.0" prefWidth="1000.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/8.0.131" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pkgMain.PlantsDetailController">
+    <children>
+        <Label layoutX="261.0" layoutY="29.0" prefHeight="58.0" prefWidth="203.0" text="plant Detail">
+            <font>
+                <Font size="28.0" />
+            </font>
+        </Label>
+
+        <VBox alignment="CENTER" layoutX="33.0" layoutY="142.0" style="-fx-background-color: #eaeaea;">
+            <children>
+                <ImageView fx:id="imgV" fitWidth="370.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../img/plant.jpg" />
+                    </image>
+                </ImageView>
+            </children>
+        </VBox>
+        <Label fx:id="name" layoutX="470.0" layoutY="155.0" prefHeight="42.0" text="Salix discolor(Pussy willow) keystone">
+            <font>
+                <Font size="25.0" />
+            </font>
+        </Label>
+        <Label fx:id="light" layoutX="481.0" layoutY="205.0" prefHeight="42.0" text=".light:aaa">
+            <font>
+                <Font size="25.0" />
+            </font>
+        </Label>
+        <Label fx:id="bloomColor" layoutX="470.0" layoutY="255.0" prefHeight="42.0" text=". Bloom color:Gray">
+            <font>
+                <Font size="25.0" />
+            </font>
+        </Label>
+        <Label fx:id="bloomTime" layoutX="470.0" layoutY="305.0" prefHeight="42.0" text=". Bloom time:Apr-May">
+            <font>
+                <Font size="25.0" />
+            </font>
+        </Label>
+        <Label fx:id="hight" layoutX="470.0" layoutY="355.0" prefHeight="42.0" text=". sunlight:Full sun">
+            <font>
+                <Font size="25.0" />
+            </font>
+        </Label>
+        <Label fx:id="soilMoisture" layoutX="470.0" layoutY="405.0" prefHeight="42.0" text=". soil Moisture:Moist,Wet,Dry">
+            <font>
+                <Font size="25.0" />
+            </font>
+        </Label>
+        <Label fx:id="caCO3Tolerance" layoutX="470.0" layoutY="455.0" prefHeight="42.0" text=". Hight: 15-25'">
+            <font>
+                <Font size="25.0" />
+            </font>
+        </Label>
+        <Label fx:id="droughtTolerance" layoutX="470.0" layoutY="505.0" prefHeight="42.0" text=". width: 20'">
+            <font>
+                <Font size="25.0" />
+            </font>
+        </Label>
+      <Label fx:id="fontLabel" layoutX="63.0" layoutY="668.0" onMouseClicked="#back" prefHeight="57.0" prefWidth="208.0" style="-fx-background-color: gray; -fx-padding: 0px 0px 0px 40px;" text="front page" textOverrun="CLIP">
+         <font>
+            <Font size="27.0" />
+         </font>
+      </Label>
+      <Label fx:id="water" layoutX="470.0" layoutY="558.0" prefHeight="42.0" text=". width: 20'">
+         <font>
+            <Font size="25.0" />
+         </font>
+      </Label>
+        <!--      <Label layoutX="470.0" layoutY="155.0" prefHeight="42.0"  text=". Bloom color:Gray" />
+              <Label layoutX="470.0" layoutY="155.0" prefHeight="42.0"  text=". Bloom time:Apr-May" />
+              <Label layoutX="470.0" layoutY="155.0" prefHeight="42.0"  text=". sunlight:Full sun" />
+              <Label layoutX="470.0" layoutY="155.0" prefHeight="42.0"  text=". soil Moisture:Moist,Wet,Dry" />
+              <Label layoutX="470.0" layoutY="155.0" prefHeight="42.0"  text=". Hight: 15-25'" />
+              <Label layoutX="470.0" layoutY="155.0" prefHeight="42.0"  text=". width: 20" />-->
+    </children>
+</AnchorPane>

@@ -1,0 +1,8 @@
+Light:Sun/Part Shade/Shade
+Water:Low/Medium/High
+Bloom Time:Jan/Feb/Mar/Apr/May/Jun/Jul/Aug/Sept/Oct/Nov/Dec
+Hight:0-10/10+/20+/30+/40+/50+/60+/70+/80+/90+/100+
+Bloom Color:White/Yellow/Green/Brown/Pink/Red/Purple/Orange
+Soil Moisture:Moist/Dry/Wet
+CaCO3 Tolerance:None/Low/High
+Drought Tolerance:None/Low/High
